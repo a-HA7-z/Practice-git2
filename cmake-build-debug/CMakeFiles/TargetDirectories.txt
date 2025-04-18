@@ -1,0 +1,3 @@
+C:/Users/HA7/OneDrive/Documents/GitHub/Practice-git2/cmake-build-debug/CMakeFiles/Practice_git2.dir
+C:/Users/HA7/OneDrive/Documents/GitHub/Practice-git2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HA7/OneDrive/Documents/GitHub/Practice-git2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
